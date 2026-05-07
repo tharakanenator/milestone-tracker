@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 
 const MILESTONES = [
   { label: "Reflection Complete", months: 1 },
+  { label: "Closing Home", months: 2 },
   { label: "Resume Polished", months: 3 },
   { label: "Networking Active", months: 4 },
   { label: "Search Greenlit", months: 6 },
